@@ -69,7 +69,7 @@ export default {
 			transition: true,
 			ButtonNavAction: {
 				type: 'route',
-				route: '/send'
+				route: '/send-report'
 			},
 			store: {
 					radio: {

@@ -13,7 +13,7 @@ export default {
   },
 	mounted () {
 		setTimeout(() => {
-			this.$router.push('/auth')
+			this.$router.push('/auth-user')
 		}, 1000);
 	}
 }

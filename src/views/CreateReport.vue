@@ -64,7 +64,7 @@ export default {
 				},
 				route: {
 					type: 'route',
-					route: '/schedule'
+					route: '/schedule-user'
 				}
 			},
 			store: {
